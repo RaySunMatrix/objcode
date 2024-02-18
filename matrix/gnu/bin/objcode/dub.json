@@ -1,0 +1,6 @@
+{
+    "name": "objcode",
+    "targetName": "objcode",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

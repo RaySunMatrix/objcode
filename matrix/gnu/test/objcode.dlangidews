@@ -1,0 +1,9 @@
+{
+    "name": "objcode",
+    "description": null,
+    "projects": {
+        "objcode": "objcode/dub.json"
+    },
+    "includePath": {
+    }
+}
